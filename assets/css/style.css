@@ -655,9 +655,10 @@ textarea.input-field {
   flex-wrap: wrap;
   justify-content: center;
   gap: 30px 25px;
+  margin-bottom: 25px;
 }
 
-.contact-item { min-width: 100%; }
+.contact-item { min-width: 100%;  }
 
 .contact-card {
   background-color: var(--white-1);
