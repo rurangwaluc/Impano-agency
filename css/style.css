@@ -846,6 +846,7 @@ body {
   padding: 10px;
   margin: 0 auto;
   text-align: center;
+  font-size: 16px;
 }
 .timeline-container .row section p span {
   background-color: #FFb700;
@@ -858,6 +859,7 @@ body {
   width: 40px;
   margin: 0 auto;
   text-align: center;
+  margin-bottom: 7px;
 }
 .timeline-container .row section .details,
 .timeline-container .row section .bottom {
@@ -924,7 +926,8 @@ body {
   .timeline-container .row section p,
 .timeline-container .row section .bottom a,
 .timeline-container .row section .bottom i {
-    font-size: 0.7rem;
+    font-size: 1.4rem;
+    line-height: 20px;
   }
   .timeline-container .row section .details .title {
     font-size: 1rem;
@@ -990,7 +993,6 @@ body {
 
 .testimonials .slider p {
   font-size: 16px;
-  color: #242323;
   word-spacing: 2px;
   font-style: italic;
 }
@@ -1598,6 +1600,7 @@ textarea.input-field {
     align-items: center;
     gap: 30px;
     text-align: left;
+    height: 100vh;
   }
   .hero-content {
     -webkit-margin-after: 0;
