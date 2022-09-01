@@ -514,8 +514,10 @@ body {
   text-align: center;
   margin: 20px 0;
   box-shadow: 0 0 5px #333;
-  padding: 10px;
+  padding: 20px;
   border-radius: 10px;
+  height: 200px;
+  margin: 5px;
 }
 #service .service-icon {
   width: 100px;
@@ -526,7 +528,7 @@ body {
   color: #ffffff;
   line-height: 30px;
   font-size: 20px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 #service .service-name {
   font-weight: 600;
@@ -538,6 +540,7 @@ body {
   margin: auto;
   color: #333;
   font-size: 17px;
+  line-height: 25px;
 }
 #service .owl-dots {
   text-align: center;
@@ -1540,7 +1543,7 @@ textarea.input-field {
     /**
      * spacing
      */
-    --section-padding: 50px;
+    --section-padding: 30px;
   }
   /**
    * REUSED STYLE
